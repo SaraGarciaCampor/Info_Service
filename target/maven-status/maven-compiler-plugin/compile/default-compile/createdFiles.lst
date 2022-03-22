@@ -1,0 +1,6 @@
+org/sara/infoservice/entities/Car.class
+org/sara/infoservice/service/CarService.class
+org/sara/infoservice/repositories/CarRepository.class
+org/sara/infoservice/controller/CarController.class
+org/sara/infoservice/configuration/Mapper.class
+org/sara/infoservice/InfoServiceApplication.class

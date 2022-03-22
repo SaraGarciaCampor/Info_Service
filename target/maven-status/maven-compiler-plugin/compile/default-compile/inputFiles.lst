@@ -1,0 +1,6 @@
+/home/garcias/Escritorio/InfoService-main/src/main/java/org/sara/infoservice/entities/Car.java
+/home/garcias/Escritorio/InfoService-main/src/main/java/org/sara/infoservice/controller/CarController.java
+/home/garcias/Escritorio/InfoService-main/src/main/java/org/sara/infoservice/repositories/CarRepository.java
+/home/garcias/Escritorio/InfoService-main/src/main/java/org/sara/infoservice/service/CarService.java
+/home/garcias/Escritorio/InfoService-main/src/main/java/org/sara/infoservice/InfoServiceApplication.java
+/home/garcias/Escritorio/InfoService-main/src/main/java/org/sara/infoservice/configuration/Mapper.java
